@@ -1,23 +1,25 @@
 <h1>Allan Gamal</h1>
 
+<h1>Allan Gamal</h1>
+
   <h2>100 Days of Code Challange</h2>
   <p>This is part of Alexander Kallaway's <a href="https://github.com/Kallaway/100-days-of-code">100DaysOfCode</a> </p>
 
   <h2>Challange</h3>
     <p>Work on new or old code daily for the next 100days</p>
 
-    <h2>Starting Point</h3>
-      <ul>
+   <h2>Starting Point</h3>
+     <ul>
         <li>Like the idea being creative and build things, with or without code</li>
         <li>Some acquaintance with HTML and CSS</li>
         <li>No other prior experience with coding</li>
         <li>No prior experience being creative</li>
         <li>No prior experience being continuously part of new projects</li>
 
-      </ul>
+</ul>
 
-      <h2>Goals</h2>
-      <ul>
+  <h2>Goals</h2>
+    <ul>
         <li>Learn and develop a rock solid understanding of the core HTML, CSS and JavaScript fundumentals</li>
         <li>Expand portfolio</li>
         <li>Get acquainted with Github</li>
@@ -27,4 +29,4 @@
         <li>Forming a habit of starting and following-through ideas/projects</li>
 
 
-      </ul>
+   </ul>
