@@ -8,8 +8,8 @@
 
    <h2>Starting Point</h3>
      <ul>
+    <li>Some acquaintance with HTML and CSS</li>
         <li>Like the idea being creative and build things, with or without code</li>
-        <li>Some acquaintance with HTML and CSS</li>
         <li>No other prior experience with coding</li>
         <li>No prior experience being creative</li>
         <li>No prior experience being continuously part of new projects</li>
