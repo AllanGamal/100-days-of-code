@@ -6,7 +6,7 @@
   <p>This is part of Alexander Kallaway's <a href="https://github.com/Kallaway/100-days-of-code">100DaysOfCode</a> </p>
 
   <h2>Challange</h3>
-    <p>Work on new or old code daily for the next 100days</p>
+    <p>Code daily for the next 100days</p>
 
    <h2>Starting Point</h3>
      <ul>
