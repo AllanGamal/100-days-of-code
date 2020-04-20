@@ -23,7 +23,7 @@
     <li>Get acquainted with Github</li>
     <li>Get acquainted with the Twitter dev community</li>
     <li>Develop my creative side</li>
-    <li>Forming a habit of coding and creating regularly</li>
+    <li>Forming a habit of coding and creating</li>
     <li>Forming a habit of starting and following-through ideas/projects</li>
 
 
