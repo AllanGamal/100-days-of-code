@@ -28,3 +28,31 @@
 
 
    </ul>
+   
+   ---
+
+
+## 1. If and else statements and for and while loops.
+
+### Day 1: June 10, 2020 
+
+**Today's Progress**:
+Learning about fundumental statements
+
+**Thoughts:** 
+So far so good. I am a little (barely) familiar with python, and it looks very familiar.
+
+**Link to Work**
+
+- [Some code](https://github.com/AllanGamal/eloquent-javascript-solutions/tree/master/Chapter%202) on GitHub
+
+
+
+
+# 100 Days Of Code - Log
+
+### Day 0: month xx, 2020 
+
+**Today's Progress**: 
+
+**Thoughts:** 
