@@ -1,7 +1,7 @@
 # Allan Gamal
 
   <h2>100 Days of Code Challange</h2>
-  <p>This is part of Alexander Kallaway's <a href="https://github.com/Kallaway/100-days-of-code">100DaysOfCode</a> </p>
+  <p>This is part of Alexander Kallaway's <a href="https://github.com/Kallaway/100-days-of-code">100DaysOfCode</a> challange</p>
 
   <h2>Challange</h3>
     <p>Code 1 hour daily for the next 100 days</p>
