@@ -30,7 +30,19 @@
    </ul>
    
    ---
+## 2. If and else statements and for and while loops.
 
+### Day 2: June 11, 2020 
+
+**Today's Progress**:
+Learning about functions, that can create a function value or can be used to declare a binding and give it a function as a value. 
+
+**Thoughts:** 
+A key today is to understand scopes, as bindings in given scopes behve differently. 
+
+**Link to Work**
+
+- [Some code](https://github.com/AllanGamal/eloquent-javascript-solutions/tree/master/Chapter%203) on GitHub
 
 ## 1. If and else statements and for and while loops.
 
