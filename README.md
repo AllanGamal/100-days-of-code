@@ -30,7 +30,18 @@
    </ul>
    
    ---
-## 2. If and else statements and for and while loops.
+## 3. Objects and arrays
+
+### Day 3: June 12, 2020 
+
+**Today's Progress and Thoughts**:
+Learning about array and objects. Which is a way to group several values into a single value, and making it possible to iterate over arrays using for-loops. 
+
+**Link to Work**
+
+- [Some code](https://github.com/AllanGamal/eloquent-javascript-solutions/tree/master/Chapter%204) on GitHub
+
+## 2. Functions
 
 ### Day 2: June 11, 2020 
 
