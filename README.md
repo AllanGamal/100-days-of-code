@@ -30,6 +30,18 @@
    </ul>
    
    ---
+   
+## 4. Objects and arrays continues
+
+### Day 4: June 13, 2020 
+
+**Today's Progress and Thoughts**:
+Continue to learn more about array and objects, and about some of the Math object, rest parametres and how to read string properties. All very handy
+
+**Link to Work**
+
+- [Some code](https://github.com/AllanGamal/eloquent-javascript-solutions/tree/master/Chapter%204) on GitHub
+
 ## 3. Objects and arrays
 
 ### Day 3: June 12, 2020 
