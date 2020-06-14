@@ -30,6 +30,12 @@
    </ul>
    
    ---
+## 5. Objects and arrays continues
+
+### Day 5: June 14, 2020 
+
+**Today's Progress and Thoughts**:
+Learned about web interactions and DOMs. How to manipulate and create documents content, structure and formating. Im starting to feel I know some of the core foundation and am ready to work on small projects. Project based learning is far more effective for me to learn and keep up the motivation to learn.
    
 ## 4. Objects and arrays continues
 
