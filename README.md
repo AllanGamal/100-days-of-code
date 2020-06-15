@@ -30,6 +30,18 @@
    </ul>
    
    ---
+   
+## 6. Objects and arrays continues
+
+### Day 6: June 15, 2020 
+
+**Today's Progress and Thoughts**:
+Started my first javascript based project, altough today I only made the UI in html and css and will add javascript tomorrow, hopefully. 
+
+**Link to Work**
+
+- [Code to tip calculator](https://github.com/AllanGamal/tip-calculator) on GitHub
+
 ## 5. Objects and arrays continues
 
 ### Day 5: June 14, 2020 
