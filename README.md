@@ -32,13 +32,13 @@
    ---
    
 
-## 7. Project tip calculator continues
+## 7. Project tip calculator completed
 <img src="img/tip-calculator/tip-calculator-full-size.JPG" alt="" height="400px"> <img src="img/tip-calculator/tip-calcuator-responsive.JPG" alt="" height="400px">
 
 ### Day 7: June 16, 2020 
 
 **Today's Progress and Thoughts**:
-Just finished my first (small) javascript project. A tip calculator! Fairly easy code. Just a couple formulas needed. It is responsive but do have som alignments "problems" that I do now care about to fix, since one of my mission is to get so musch javascript experience as possible. 
+Just finished my first (small) javascript project. A tip calculator! Fairly easy code. Just a couple formulas needed. It is responsive but do have som alignments "problems" that I do not care about to fix, since one of my mission is to get so musch javascript experience as possible. 
 **Link to Work**
 
 - [Code](https://github.com/AllanGamal/tip-calculator) to tip calculator on GitHub
