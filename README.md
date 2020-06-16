@@ -30,7 +30,10 @@
    </ul>
    
    ---
-## 7. Objects and arrays continues
+   
+
+## 7. Project tip calculator continues
+<img src="img/tip-calculator/tip-calculator-full-size.JPG" alt="" height="400px"> <img src="img/tip-calculator/tip-calcuator-responsive.JPG" alt="" height="400px">
 
 ### Day 7: June 16, 2020 
 
@@ -40,7 +43,7 @@ Just finished my first (small) javascript project. A tip calculator! Fairly easy
 
 - [Code](https://github.com/AllanGamal/tip-calculator) to tip calculator on GitHub
    
-## 6. Objects and arrays continues
+## 6. Project tip calculator, first project!
 
 ### Day 6: June 15, 2020 
 
