@@ -30,7 +30,16 @@
    </ul>
    
    ---
-   
+## 8. Project game hangman started
+
+### Day 8: June 17, 2020 
+
+**Today's Progress and Thoughts**:
+Started a game project this time, hangman! I only made a simple setup for the index, styling and images... To generate all the words I could use html, but I think its more effective if I just javascript to generate them (given that I learn how to do that).
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/hangman) to hangman on GitHub
 
 ## 7. Project tip calculator completed
 <img src="img/tip-calculator/tip-calculator-full-size.JPG" alt="" height="400px"> <img src="img/tip-calculator/tip-calcuator-responsive.JPG" alt="" height="400px">
