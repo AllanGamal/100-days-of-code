@@ -29,11 +29,29 @@
    </ul>
    
    ---
+## 9. Project game hangman completed
+ <img src="img/hangman/hangman.JPG" alt="Hangman" id="hangman-img" height="500px">
+
+### Day 9: June 18, 2020
+
+**Today's Progress and Thoughts**:
+
+Learnt tons during this project! I sure did underestimate how hard it would be, and how much code it would take to finish this.
+
+I did get stuck for a good while trying to change properties of several divs with same class, not realising there were a dedicated selector (document.querySelectorAll("...")) for this purpose, and that the divs of the given class using this selector is bunted in a node, or a array if you will, and that I have to loop through the array to change the propertie for all the divs of the given class.
+
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/hangman) to hangman on GitHub   
+- [Article](https://css-tricks.com/snippets/javascript/loop-queryselectorall-matches/) on how you loop elements using querySelectorAll.   
+
 ## 8. Project game hangman started
 
 ### Day 8: June 17, 2020
 
 **Today's Progress and Thoughts**:
+
 Started a game project this time, hangman! I only made a simple setup for the index, styling and images... To generate all the words I could use html, but I think its more effective if I just javascript to generate them (given that I learn how to do that).
 
 **Link to Work**
@@ -47,6 +65,7 @@ Started a game project this time, hangman! I only made a simple setup for the in
 ### Day 7: June 16, 2020
 
 **Today's Progress and Thoughts**:
+
 Just finished my first (small) javascript project. A tip calculator! Fairly easy code. Just a couple formulas needed. It is responsive but do have som alignments "problems" that I do not care about to fix, since one of my mission is to get so musch javascript experience as possible.
 **Link to Work**
 
@@ -57,6 +76,7 @@ Just finished my first (small) javascript project. A tip calculator! Fairly easy
 ### Day 6: June 15, 2020
 
 **Today's Progress and Thoughts**:
+
 Started my first javascript based project, altough today I only made the UI in html and css and will add javascript tomorrow, hopefully.
 
 **Link to Work**
@@ -68,6 +88,7 @@ Started my first javascript based project, altough today I only made the UI in h
 ### Day 5: June 14, 2020
 
 **Today's Progress and Thoughts**:
+
 Learned about web interactions and DOMs. How to manipulate and create documents content, structure and formating. Im starting to feel I know some of the core foundation and am ready to work on small projects. Project based learning is far more effective for me to learn and keep up the motivation to learn.
 
 ## 4. Objects and arrays continues
@@ -75,6 +96,7 @@ Learned about web interactions and DOMs. How to manipulate and create documents 
 ### Day 4: June 13, 2020
 
 **Today's Progress and Thoughts**:
+
 Continue to learn more about array and objects, and about some of the Math object, rest parametres and how to read string properties. All very handy
 
 **Link to Work**
@@ -86,6 +108,7 @@ Continue to learn more about array and objects, and about some of the Math objec
 ### Day 3: June 12, 2020
 
 **Today's Progress and Thoughts**:
+
 Learning about array and objects. Which is a way to group several values into a single value, and making it possible to iterate over arrays using for-loops.
 
 **Link to Work**
@@ -97,9 +120,11 @@ Learning about array and objects. Which is a way to group several values into a 
 ### Day 2: June 11, 2020
 
 **Today's Progress**:
+
 Learning about functions, that can create a function value or can be used to declare a binding and give it a function as a value.
 
 **Thoughts:**
+
 A key today is to understand scopes, as bindings in given scopes behve differently.
 
 **Link to Work**
@@ -111,9 +136,11 @@ A key today is to understand scopes, as bindings in given scopes behve different
 ### Day 1: June 10, 2020
 
 **Today's Progress**:
+
 Learning about fundumental statements
 
 **Thoughts:**
+
 So far so good. I am a little (barely) familiar with python, and it looks very familiar.
 
 **Link to Work**
