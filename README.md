@@ -29,6 +29,21 @@
    </ul>
    
    ---
+   
+## 10. Project Expense manager
+
+### Day 10: June 19, 2020
+
+**Today's Progress and Thoughts**:
+
+Started a new project today, expense manager. I only made the basic index and styling setup. I feel like I am pretty (relative) good at css grid and flexbox. 
+
+Also today I've passed the 10% mark through the 100daysofcode challange. I really feel like this shouldn't be too hard to complete.
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/expense-manager) to expense manager on GitHub   
+   
 ## 9. Project game hangman completed
  <img src="img/hangman/hangman.JPG" alt="Hangman" id="hangman-img" height="500px">
 
