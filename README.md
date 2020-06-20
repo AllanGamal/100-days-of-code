@@ -30,6 +30,20 @@
    
    ---
    
+## 11. Project Expense manager continues
+
+### Day 11: June 20, 2020
+
+**Today's Progress and Thoughts**:
+
+I've come to a point where the whole code is a mess. Much that is without comments, and alot of code is doubles. Altogh I will not clean up this code, I shall walk away with the lesson to be more careful to begin with.
+
+Also I am a little stuck at the moment, coing to think about it tonight and try to solve it tomorrow
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/expense-manager) to expense manager on GitHub   
+   
 ## 10. Project Expense manager
 
 ### Day 10: June 19, 2020
