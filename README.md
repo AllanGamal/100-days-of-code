@@ -29,6 +29,17 @@
    </ul>
    
    ---
+## 12. Project Expense manager continues
+
+### Day 12: June 21, 2020
+
+**Today's Progress and Thoughts**:
+
+Added expense- and income objects and id to to each action(income/expense), and change the balane formula to calculate from the objects and not the textcontent. This should make it easier to remove items from the list without the math of the balance fail. 
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/expense-manager) to expense manager on GitHub
    
 ## 11. Project Expense manager continues
 
