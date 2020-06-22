@@ -29,6 +29,23 @@
    </ul>
    
    ---
+   
+## 13. Project Expense manager completed
+
+   <img src="img/expense-manager/expense-manager.JPG" height="500px">
+
+### Day 13: June 22, 2020
+
+**Today's Progress and Thoughts**:
+
+Functionality of removing items from history added, and therefore project completed. 
+
+The most valuable thing for me in this project was getting experience going through the javascript fundementals. Although the code is a mess, my lesson to next project is to not be afraid of rewrite the code to a better strategy, since in the long run it will be easier to follow trough. 
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/expense-manager) to expense manager on GitHub
+
 ## 12. Project Expense manager continues
 
 ### Day 12: June 21, 2020
