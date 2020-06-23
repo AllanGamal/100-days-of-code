@@ -29,6 +29,19 @@
    </ul>
    
    ---
+## 14. Project form validator
+   
+
+### Day 14: June 23, 2020
+
+**Today's Progress and Thoughts**:
+
+Started a new simple (I think) project. A form validator.
+To this project I'm going to take with me lessons from before, presetting classes in the css (scss) file that is going to be later used, rather than doing it all in javascript, so I can just toggle between classes. 
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/form-validation) to form validation on GitHub
    
 ## 13. Project Expense manager completed
 
