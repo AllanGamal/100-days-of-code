@@ -30,7 +30,6 @@
    
    ---
 ## 15. Project form validator completed
-   form-validator.JPG
 
 ### Day 15: June 24, 2020
 
