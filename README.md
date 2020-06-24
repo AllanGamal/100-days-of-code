@@ -29,6 +29,21 @@
    </ul>
    
    ---
+## 15. Project form validator completed
+   form-validator.JPG
+
+### Day 15: June 24, 2020
+
+**Today's Progress and Thoughts**:
+
+Javascript file added, really didn't learn anything today. I need more of optimal projects/challanges, since I feel like I am standing still at the moment. lets see what tomorrow have to offer.
+
+<img src="img/form-validator/form-validator.JPG" height="500px">
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/form-validation) to form validation on GitHub
+
 ## 14. Project form validator
    
 
