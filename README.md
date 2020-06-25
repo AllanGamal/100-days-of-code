@@ -29,6 +29,18 @@
    </ul>
    
    ---
+## 16. Project form validator completed
+
+### Day 16: June 25, 2020
+
+**Today's Progress and Thoughts**:
+
+In lack of project ideas I jumped the javascript30 challange, and completed the first project. A drum kit
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/javaScript30) to javascript30 on GitHub
+
 ## 15. Project form validator completed
 
 ### Day 15: June 24, 2020
