@@ -29,7 +29,19 @@
    </ul>
    
    ---
-## 16. Project form validator completed
+## 17. Javascript30 challange
+
+### Day 17: June 26, 2020
+
+**Today's Progress and Thoughts**:
+
+Made a clock today, making me familiar with time methods. 
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/javaScript30) to javascript30 on GitHub
+
+## 16. Javascript30 challange
 
 ### Day 16: June 25, 2020
 
