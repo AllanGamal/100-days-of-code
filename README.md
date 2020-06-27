@@ -29,6 +29,17 @@
    </ul>
    
    ---
+## 18. Javascript30 challange
+
+### Day 18: June 27, 2020
+
+**Today's Progress and Thoughts**:
+
+In this project I played around with input and input values, and addEventListener "change" and "mousemove".
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/javaScript30) to javascript30 on GitHub
 ## 17. Javascript30 challange
 
 ### Day 17: June 26, 2020
