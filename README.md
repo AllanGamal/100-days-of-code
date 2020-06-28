@@ -29,6 +29,18 @@
    </ul>
    
    ---
+## 19. Javascript30 challange
+
+### Day 19: June 28, 2020
+
+**Today's Progress and Thoughts**:
+
+Doing alot of repetition of different methods, like filter(), map(), sort() and reduce(). Will be coming back to this exercise since it is very valuable
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/javaScript30) to javascript30 on GitHub
+
 ## 18. Javascript30 challange
 
 ### Day 18: June 27, 2020
@@ -40,6 +52,7 @@ In this project I played around with input and input values, and addEventListene
 **Link to Work**
 
 - [Code](https://github.com/AllanGamal/javaScript30) to javascript30 on GitHub
+
 ## 17. Javascript30 challange
 
 ### Day 17: June 26, 2020
