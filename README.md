@@ -29,6 +29,18 @@
    </ul>
    
    ---
+## 20. Javascript30 challange
+
+### Day 20: June 29, 2020
+
+**Today's Progress and Thoughts**:
+
+Challange part of javascript30 made, nothing really new here
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/javaScript30) to javascript30 on GitHub
+
 ## 19. Javascript30 challange
 
 ### Day 19: June 28, 2020
