@@ -29,6 +29,19 @@
    </ul>
    
    ---
+## 22. Javascript30 challange
+
+### Day 22: July 1, 2020
+
+**Today's Progress and Thoughts**:
+
+Part of javascript30 challange made. Playing around with some newly introduced array methods, like some() that checks if any of key-value pairs is existing in an array. And the we have the every() that checks if every key-value pairs match to wanted value. 
+And find() to get an object from the value
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/javaScript30) to javascript30 on GitHub
+
 ## 21. Javascript30 challange
 
 ### Day 21: June 30, 2020
