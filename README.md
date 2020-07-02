@@ -29,6 +29,26 @@
    </ul>
    
    ---
+## 23. Javascript30 challange
+
+### Day 23: July 2, 2020
+
+**Today's Progress and Thoughts**:
+
+Part of javascript30 challange made. Making a canvas. Learnt today that you can reverse a value by "x = !x", instead of doing alot of if statements, and that you can shorten your code by instead of doing like this:
+```
+x = a;
+b = b;
+ ```
+You can do it like this instead, in one line:
+```
+[x, y] = [a, b]
+ ```
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/javaScript30) to javascript30 on GitHub
+
 ## 22. Javascript30 challange
 
 ### Day 22: July 1, 2020
