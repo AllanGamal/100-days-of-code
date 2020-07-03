@@ -29,6 +29,26 @@
    </ul>
    
    ---
+## 24. Javascript30 challange
+
+### Day 24: July 3, 2020
+
+**Today's Progress and Thoughts**:
+
+Part of javascript30 challange completed. Very hande dev tools learnt today, like:
+console.:
+warn
+error
+table
+group
+count
+time
+
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/javaScript30) to javascript30 on GitHub
+
 ## 23. Javascript30 challange
 
 ### Day 23: July 2, 2020
