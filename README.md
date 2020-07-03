@@ -36,13 +36,14 @@
 **Today's Progress and Thoughts**:
 
 Part of javascript30 challange completed. Very hande dev tools learnt today, like:
+
 console.:
-warn
-error
-table
-group
-count
-time
+- warn
+- error
+- table
+- group
+- count
+- time
 
 
 **Link to Work**
