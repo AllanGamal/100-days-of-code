@@ -29,6 +29,17 @@
    </ul>
    
    ---
+## 25. Javascript30 challange
+
+### Day 25: July 4, 2020
+
+**Today's Progress and Thoughts**:
+
+Part of javascript30 challange completed, hold shift and check checkboxes. So be able to shift and press checkbox to select every checkbox in between. The code was not that hard, but it did take som brainpower. Have to use querySelector**All**, and use forEach to loop through every checkbox only to check it. 
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/javaScript30) to javascript30 on GitHub
 ## 24. Javascript30 challange
 
 ### Day 24: July 3, 2020
