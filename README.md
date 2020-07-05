@@ -29,6 +29,18 @@
    </ul>
    
    ---
+## 26. Javascript30 challange
+
+### Day 26: July 5, 2020
+
+**Today's Progress and Thoughts**:
+
+Part of javascript30 challange completed, html5 custom made video player, by hiding the video playser controls and make som own custom made. 
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/javaScript30) to javascript30 on GitHub
+
 ## 25. Javascript30 challange
 
 ### Day 25: July 4, 2020
