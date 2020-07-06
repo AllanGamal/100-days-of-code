@@ -29,6 +29,18 @@
    </ul>
    
    ---
+## 27. Javascript30 challange
+
+### Day 27: July 6, 2020
+
+**Today's Progress and Thoughts**:
+
+Part of javascript30 challange completed, and an empty page with key sequence detection to trigger an action! Fairly easy code, but valuable!
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/javaScript30) to javascript30 on GitHub
+
 ## 26. Javascript30 challange
 
 ### Day 26: July 5, 2020
