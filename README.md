@@ -29,6 +29,19 @@
    </ul>
    
    ---
+## 28. Javascript30 challange
+
+### Day 28: July 7, 2020
+
+**Today's Progress and Thoughts**:
+
+Part of javascript30 challange completed, making images glide and fade in from the side by translate them on and off screen when scrolling up and down, and using 
+offsetTop property that returns the top position (px) relative to the top of the parent element.
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/javaScript30) to javascript30 on GitHub
+
 ## 27. Javascript30 challange
 
 ### Day 27: July 6, 2020
