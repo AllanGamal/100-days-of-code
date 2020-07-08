@@ -29,6 +29,17 @@
    </ul>
    
    ---
+## 29. Javascript30 challange
+
+### Day 29: July 8, 2020
+
+**Today's Progress and Thoughts**:
+
+Part of javascript30 challange completed, javascripts reference vs copys. Been learning today important differences on how you copy, and how you refrence an array or an object and it sub levels.
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/javaScript30) to javascript30 on GitHub
 ## 28. Javascript30 challange
 
 ### Day 28: July 7, 2020
