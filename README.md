@@ -29,6 +29,18 @@
    </ul>
    
    ---
+## 30. Javascript30 challange
+
+### Day 30: July 9, 2020
+
+**Today's Progress and Thoughts**:
+
+Part of javascript30 challange completed, working with local storage, where you can add items on the page will still be there when refreshing the page. 
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/javaScript30) to javascript30 on GitHub
+
 ## 29. Javascript30 challange
 
 ### Day 29: July 8, 2020
