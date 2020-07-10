@@ -29,6 +29,17 @@
    </ul>
    
    ---
+## 31. Javascript30 challange
+
+### Day 31: July 10, 2020
+
+**Today's Progress and Thoughts**:
+
+Part of javascript30 challange completed, working a text shadow that follows the mouse pointer using mousemove offsetWidth- and Height.
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/javaScript30) to javascript30 on GitHub
 ## 30. Javascript30 challange
 
 ### Day 30: July 9, 2020
