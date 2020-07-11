@@ -29,6 +29,17 @@
    </ul>
    
    ---
+## 32. Javascript30 challange
+
+### Day 32: July 11, 2020
+
+**Today's Progress and Thoughts**:
+
+Part of javascript30 challange completed, sorting array values by name, ignoring all the "the", "a", and "an" if it's beforce the sentence/namve value. 
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/javaScript30) to javascript30 on GitHub
 ## 31. Javascript30 challange
 
 ### Day 31: July 10, 2020
