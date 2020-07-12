@@ -29,6 +29,17 @@
    </ul>
    
    ---
+## 33. Javascript30 challange
+
+### Day 33: July 12, 2020
+
+**Today's Progress and Thoughts**:
+
+Part of javascript30 challange completed, adding up time with reduce. Helpful lesson using a combonation of map and reduce. 
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/javaScript30) to javascript30 on GitHub
 ## 32. Javascript30 challange
 
 ### Day 32: July 11, 2020
