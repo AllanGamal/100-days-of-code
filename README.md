@@ -29,6 +29,17 @@
    </ul>
    
    ---
+## 34. Javascript30 challange
+
+### Day 34: July 13, 2020
+
+**Today's Progress and Thoughts**:
+
+Part of javascript30 challange completed, photobooth with javascript! Using a webcam video feed in a canvas element, and once it is in a ncanvas element we can start adding different effects!
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/javaScript30) to javascript30 on GitHub
 ## 33. Javascript30 challange
 
 ### Day 33: July 12, 2020
