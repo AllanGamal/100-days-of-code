@@ -29,6 +29,18 @@
    </ul>
    
    ---
+## 35. Javascript30 challange
+
+### Day 35: July 14, 2020
+
+**Today's Progress and Thoughts**:
+
+Part of javascript30 challange completed, speech detection! Doing it straight in the browser, without any external libaries or APIs!
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/javaScript30) to javascript30 on GitHub
+
 ## 34. Javascript30 challange
 
 ### Day 34: July 13, 2020
