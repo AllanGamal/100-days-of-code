@@ -29,6 +29,18 @@
    </ul>
    
    ---
+## 36. Javascript30 challange
+
+### Day 36: July 15, 2020
+
+**Today's Progress and Thoughts**:
+
+Part of javascript30 challange completed, geolocation! I didn't actually get it to work on my computer, since my browser dosen't want to give me premission to use my location, but i did follow through this section of javascript30 anyway
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/javaScript30) to javascript30 on GitHub
+
 ## 35. Javascript30 challange
 
 ### Day 35: July 14, 2020
