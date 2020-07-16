@@ -29,6 +29,18 @@
    </ul>
    
    ---
+## 37. Javascript30 challange
+
+### Day 37: July 16, 2020
+
+**Today's Progress and Thoughts**:
+
+Part of javascript30 challange completed, making box backgrounds transition from box to box, two different elements, since you cant just transition the background from one to another. Doing this by figuring out the width, height and where the lement is positioned on the page.
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/javaScript30) to javascript30 on GitHub
+
 ## 36. Javascript30 challange
 
 ### Day 36: July 15, 2020
