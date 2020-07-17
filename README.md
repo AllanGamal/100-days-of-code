@@ -29,6 +29,17 @@
    </ul>
    
    ---
+## 38. Javascript30 challange
+
+### Day 38: July 17, 2020
+
+**Today's Progress and Thoughts**:
+
+Part of javascript30 challange completed. Today I playted around with a speech synhesis API that come with most modern browsers, making text to voice, with pitch and rate variables. 
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/javaScript30) to javascript30 on GitHub
 ## 37. Javascript30 challange
 
 ### Day 37: July 16, 2020
