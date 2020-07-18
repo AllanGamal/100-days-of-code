@@ -29,6 +29,18 @@
    </ul>
    
    ---
+## 39. Javascript30 challange
+
+### Day 39: July 18, 2020
+
+**Today's Progress and Thoughts**:
+
+Part of javascript30 challange completed. Sticked nav! I got this nav that has a position of relative, and with javascript I change the position to sticky when scrolling down, so the nav is always visable!
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/javaScript30) to javascript30 on GitHub
+
 ## 38. Javascript30 challange
 
 ### Day 38: July 17, 2020
