@@ -29,6 +29,18 @@
    </ul>
    
    ---
+## 40. Javascript30 challange
+
+### Day 40: July 19, 2020
+
+**Today's Progress and Thoughts**:
+
+Part of javascript30 challange completed. Not building anything today, just playing around with addEventListener, eventcaptuaring and bubbling
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/javaScript30) to javascript30 on GitHub
+
 ## 39. Javascript30 challange
 
 ### Day 39: July 18, 2020
