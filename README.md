@@ -29,6 +29,18 @@
    </ul>
    
    ---
+## 41. Javascript30 challange
+
+### Day 41: July 20, 2020
+
+**Today's Progress and Thoughts**:
+
+Part of javascript30 challange completed. Making drop-down box backgrounds transition from box to box, two different elements.
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/javaScript30) to javascript30 on GitHub   
+
 ## 40. Javascript30 challange
 
 ### Day 40: July 19, 2020
@@ -64,6 +76,7 @@ Part of javascript30 challange completed. Today I playted around with a speech s
 **Link to Work**
 
 - [Code](https://github.com/AllanGamal/javaScript30) to javascript30 on GitHub
+
 ## 37. Javascript30 challange
 
 ### Day 37: July 16, 2020
