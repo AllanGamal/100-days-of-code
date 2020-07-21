@@ -29,6 +29,18 @@
    </ul>
    
    ---
+## 42. Javascript30 challange
+
+### Day 42: July 21, 2020
+
+**Today's Progress and Thoughts**:
+
+Part of javascript30 challange completed. Click and drag! Getting familiar with mouseevent and mouseposition.
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/javaScript30) to javascript30 on GitHub      
+
 ## 41. Javascript30 challange
 
 ### Day 41: July 20, 2020
