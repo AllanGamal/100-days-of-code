@@ -28,7 +28,18 @@
 
    </ul>
    
-   ---
+## 43. Javascript30 challange
+
+### Day 43: July 22, 2020
+
+**Today's Progress and Thoughts**:
+
+Part of javascript30 challange completed. Making a video speed controller! Playing around with mousemove event and html5 video, to controll how fast the video goes. 
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/javaScript30) to javascript30 on GitHub         ---
+
 ## 42. Javascript30 challange
 
 ### Day 42: July 21, 2020
