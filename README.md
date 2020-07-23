@@ -27,7 +27,20 @@
         <li>Forming a habit of starting and following-through ideas/projects</li>
 
    </ul>
-   
+   ---
+
+## 44. Javascript30 challange
+
+### Day 44: July 23, 2020
+
+**Today's Progress and Thoughts**:
+
+Part of javascript30 challange completed. Greating a coundown timer! That will show us in a certain path that will include break, lunches or whatever. 
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/javaScript30) to javascript30 on GitHub  
+
 ## 43. Javascript30 challange
 
 ### Day 43: July 22, 2020
@@ -38,7 +51,7 @@ Part of javascript30 challange completed. Making a video speed controller! Playi
 
 **Link to Work**
 
-- [Code](https://github.com/AllanGamal/javaScript30) to javascript30 on GitHub         ---
+- [Code](https://github.com/AllanGamal/javaScript30) to javascript30 on GitHub         
 
 ## 42. Javascript30 challange
 
