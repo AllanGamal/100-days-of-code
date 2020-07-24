@@ -29,6 +29,18 @@
    </ul>
    ---
 
+## 45. Javascript30 challange
+
+### Day 45: July 24, 2020
+
+**Today's Progress and Thoughts**:
+
+Javascript30 challange completed. Made a wack a mole game today. Had a lot of fun, and the things a take away from this challange is getting alot of hands on on the fundementals, and getting som ideas as a bonus!
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/javaScript30) to javascript30 on GitHub  
+
 ## 44. Javascript30 challange
 
 ### Day 44: July 23, 2020
