@@ -28,6 +28,14 @@
 
    </ul>
    ---
+## 46. Javascript30 challange
+
+### Day 46: July 25, 2020
+
+**Today's Progress and Thoughts**:
+
+Started a new project. This time I just want to put up a content site, that is decent looking site, just to demostrate that I am able to handle the html and css/scss basics, and might add some javascript functions to site. 
+So today i just made the nav! 
 
 ## 45. Javascript30 challange
 
