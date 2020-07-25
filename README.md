@@ -27,7 +27,8 @@
         <li>Forming a habit of starting and following-through ideas/projects</li>
 
    </ul>
-   ---
+---
+   
 ## 46. Javascript30 challange
 
 ### Day 46: July 25, 2020
@@ -36,6 +37,10 @@
 
 Started a new project. This time I just want to put up a content site, that is decent looking site, just to demostrate that I am able to handle the html and css/scss basics, and might add some javascript functions to site. 
 So today i just made the nav! 
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/whygooglewhy) to site on GitHub  
 
 ## 45. Javascript30 challange
 
