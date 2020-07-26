@@ -29,13 +29,15 @@
    </ul>
 ---
 
-## 47. Project why google, nav
+## 47. Project why google, nav 
 
 ### Day 47: July 26, 2020
 
 **Today's Progress and Thoughts**:
 
 Made some modifications on my nav from yesterday, making a search button and other animations with border-bottom, and all done with flex-box.
+
+<img src="img/whygoogle/nav.JPG" width="1000px">
 
 **Link to Work**
 
