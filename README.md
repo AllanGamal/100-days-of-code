@@ -28,8 +28,20 @@
 
    </ul>
 ---
+
+## 47. Project why google, nav
+
+### Day 47: July 26, 2020
+
+**Today's Progress and Thoughts**:
+
+Made some modifications on my nav from yesterday, making a search button and other animations with border-bottom, and all done with flex-box.
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/whygooglewhy) to site on GitHub 
    
-## 46. Javascript30 challange
+## 46. Javascript30 challange and new project!
 
 ### Day 46: July 25, 2020
 
