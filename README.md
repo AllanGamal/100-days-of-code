@@ -29,6 +29,18 @@
    </ul>
 ---
 
+## 48. Project why google, hero image
+
+### Day 48: July 27, 2020
+
+**Today's Progress and Thoughts**:
+
+Added a hero image today, but not that happy, going to modify apperance tomorrow
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/whygooglewhy) to site on GitHub 
+
 ## 47. Project why google, nav 
 
 ### Day 47: July 26, 2020
