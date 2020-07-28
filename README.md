@@ -29,6 +29,18 @@
    </ul>
 ---
 
+## 49. Project why google, hero image
+
+### Day 49: July 28, 2020
+
+**Today's Progress and Thoughts**:
+
+Playing around with some different designs for hero image and animation, making it slide in from the side with key frames. 
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/whygooglewhy) to site on GitHub 
+
 ## 48. Project why google, hero image
 
 ### Day 48: July 27, 2020
