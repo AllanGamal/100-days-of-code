@@ -29,6 +29,20 @@
    </ul>
 ---
 
+## 50. Project why google, hero image continued
+
+### Day 50: July 29, 2020
+
+**Today's Progress and Thoughts**:
+
+Dont with the hero image and feel like im done with the homepage. Splited my image in 2, and place them in a grid, making the images slide in from left and right with keyframes to make cool animations. 
+
+<img src="img/whygoogle/heroimage.JPG" height="250px">
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/whygooglewhy) to site on GitHub 
+
 ## 49. Project why google, hero image
 
 ### Day 49: July 28, 2020
