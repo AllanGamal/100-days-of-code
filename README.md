@@ -28,6 +28,17 @@
 
    </ul>
 ---
+## 51. Project why google, intro/welcome/summary
+
+### Day 51: July 30, 2020
+
+**Today's Progress and Thoughts**:
+
+Working added a intropage, with a welcome/summary text. Will be finetune it more tomorrow
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/whygooglewhy) to site on GitHub 
 
 ## 50. Project why google, hero image continued
 
