@@ -28,7 +28,22 @@
 
    </ul>
 ---
-## 51. Project why google, intro/welcome/summary
+
+## 52. Project why google, intro/welcome/summary page completed
+
+### Day 52: July 31, 2020
+
+**Today's Progress and Thoughts**:
+
+Intropage completed! Made it super simple, with text div very narrow, and a simple background color. 
+
+<img src="img/whygoogle/intropage.JPG" width="500px">
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/whygooglewhy) to site on GitHub 
+
+## 51. Project why google, intro/welcome/summary page
 
 ### Day 51: July 30, 2020
 
