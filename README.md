@@ -29,6 +29,22 @@
    </ul>
 ---
 
+## 53. Project why google, card designs
+
+### Day 53: Aug 1, 2020
+
+**Today's Progress and Thoughts**:
+
+Trying out some card designs!
+
+<img src="img/whygoogle/verticalcards.JPG" height="300px">
+<img src="img/whygoogle/horizontalcards.JPG" height="200px">
+
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/whygooglewhy) to site on GitHub
+
 ## 52. Project why google, intro/welcome/summary page completed
 
 ### Day 52: July 31, 2020
