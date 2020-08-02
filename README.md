@@ -29,6 +29,23 @@
    </ul>
 ---
 
+## 54. Project why google, card designs continues
+
+### Day 54: Aug 2, 2020
+
+**Today's Progress and Thoughts**:
+
+Trying out some new card designs. Added the image and color in a grid container so I could offset the color. Starting to look good (:
+
+<img src="img/whygoogle/verticalcardscolor.JPG" height="300px">
+<img src="img/whygoogle/horizontalcardscolor.JPG" height="200px">
+
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/whygooglewhy) to site on GitHub
+
+
 ## 53. Project why google, card designs
 
 ### Day 53: Aug 1, 2020
