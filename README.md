@@ -29,9 +29,21 @@
    </ul>
 ---
 
+## 56. Project why google, table designs
+
+### Day 56: Aug 3, 2020
+
+**Today's Progress and Thoughts**:
+
+Trying out some table designs with css grid. My v.999 is just as ugly as my v.1. 
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/whygooglewhy) to site on GitHub
+
 ## 55. Project why google, card designs completed
 
-### Day 54: Aug 3, 2020
+### Day 55: Aug 3, 2020
 
 **Today's Progress and Thoughts**:
 
