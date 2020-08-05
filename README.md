@@ -29,9 +29,25 @@
    </ul>
 ---
 
+## 57. Project why google, table design completed
+
+### Day 57: Aug 5, 2020
+
+**Today's Progress and Thoughts**:
+
+Completed my table design. I really made it more complicated than it should have been when using css grid over <table>. <table> rules. Also made some hover animations (:
+
+<img src="img/whygoogle/tabledesign.JPG" height="600px">
+  
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/whygooglewhy) to site on GitHub
+
+
 ## 56. Project why google, table designs
 
-### Day 56: Aug 3, 2020
+### Day 56: Aug 4, 2020
 
 **Today's Progress and Thoughts**:
 
