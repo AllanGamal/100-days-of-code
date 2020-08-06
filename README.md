@@ -29,13 +29,26 @@
    </ul>
 ---
 
+## 58. Project why google, content designs
+
+### Day 58: Aug 6, 2020
+
+**Today's Progress and Thoughts**:
+
+Made a simple content layout in grid, where in a section text is on the right side, and image on the left. And for every new section the text and image will be swapped. 
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/whygooglewhy) to site on GitHub
+
+
 ## 57. Project why google, table design completed
 
 ### Day 57: Aug 5, 2020
 
 **Today's Progress and Thoughts**:
 
-Completed my table design. I really made it more complicated than it should have been when using css grid over <table>. <table> rules. Also made some hover animations (:
+Completed my table design. I really made it more complicated than it should have been when using css grid over table. table rules. Also made some hover animations (:
 
 <img src="img/whygoogle/tabledesign.JPG" height="600px">
   
