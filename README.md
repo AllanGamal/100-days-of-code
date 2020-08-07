@@ -29,6 +29,18 @@
    </ul>
 ---
 
+## 59. Project why google, content designs
+
+### Day 59: Aug 7, 2020
+
+**Today's Progress and Thoughts**:
+
+Making all the link work. Was planning to make multiple pages, but I just want to finish this and do a long one page site. Making the link jump to the right section
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/whygooglewhy) to site on GitHub
+
 ## 58. Project why google, content designs
 
 ### Day 58: Aug 6, 2020
