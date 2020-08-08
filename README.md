@@ -28,8 +28,19 @@
 
    </ul>
 ---
+## 60. Project why google, responsive design
 
-## 59. Project why google, content designs
+### Day 60: Aug 8, 2020
+
+**Today's Progress and Thoughts**:
+
+Working with media querys, making everything responsive!
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/whygooglewhy) to site on GitHub
+
+## 59. Project why google
 
 ### Day 59: Aug 7, 2020
 
