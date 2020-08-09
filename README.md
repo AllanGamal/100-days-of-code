@@ -28,6 +28,19 @@
 
    </ul>
 ---
+
+## 61. Project why google, responsive design
+
+### Day 61: Aug 9, 2020
+
+**Today's Progress and Thoughts**:
+
+Made my search button expand at click, looks very sleek. Took me forever to get right
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/whygooglewhy) to site on GitHub
+
 ## 60. Project why google, responsive design
 
 ### Day 60: Aug 8, 2020
