@@ -29,6 +29,19 @@
    </ul>
 ---
 
+## 62. Project why google, responsive design
+
+### Day 62: Aug 10, 2020
+
+**Today's Progress and Thoughts**:
+
+In my content website im doing now, I did all my lists and cards in html/css. Big mistake, should just have started in javascript, made the list there, and ad them later to html since the data is going to be dynamically generated in html, which is what I did today. 
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/whygooglewhy) to site on GitHub
+
+
 ## 61. Project why google, responsive design
 
 ### Day 61: Aug 9, 2020
