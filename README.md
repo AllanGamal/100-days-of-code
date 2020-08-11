@@ -29,6 +29,19 @@
    </ul>
 ---
 
+## 63. Project why google, sticky navbar
+
+### Day 63: Aug 11, 2020
+
+**Today's Progress and Thoughts**:
+
+Making a sticky navbar when scrolling down past first page with javascript!
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/whygooglewhy) to site on GitHub
+
+
 ## 62. Project why google, responsive design
 
 ### Day 62: Aug 10, 2020
