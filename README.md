@@ -29,6 +29,19 @@
    </ul>
 ---
 
+## 64. Project why google, get ip
+
+### Day 63: Aug 12, 2020
+
+**Today's Progress and Thoughts**:
+
+Using a api to display my ip on page. Only a couple of lines of code, but I have no idea how it works, I just copied it and tweeked it til it worked. 
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/whygooglewhy) to site on GitHub
+
+
 ## 63. Project why google, sticky navbar
 
 ### Day 63: Aug 11, 2020
