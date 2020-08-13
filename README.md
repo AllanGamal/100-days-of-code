@@ -29,9 +29,22 @@
    </ul>
 ---
 
+## 65. Project why google, clock
+
+### Day 65: Aug 12, 2020
+
+**Today's Progress and Thoughts**:
+
+Making a clock, showing time in real time.
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/whygooglewhy) to site on GitHub
+
+
 ## 64. Project why google, get ip
 
-### Day 63: Aug 12, 2020
+### Day 64: Aug 12, 2020
 
 **Today's Progress and Thoughts**:
 
