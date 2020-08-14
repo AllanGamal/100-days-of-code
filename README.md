@@ -29,6 +29,20 @@
    </ul>
 ---
 
+
+## 66. Project why google, time of day
+
+### Day 66: Aug 13, 2020
+
+**Today's Progress and Thoughts**:
+
+Making a functin, showing what day it is.
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/whygooglewhy) to site on GitHub
+
+
 ## 65. Project why google, clock
 
 ### Day 65: Aug 12, 2020
