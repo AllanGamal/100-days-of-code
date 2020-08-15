@@ -30,9 +30,22 @@
 ---
 
 
+## 67. Project why google, time of day
+
+### Day 67: Aug 15, 2020
+
+**Today's Progress and Thoughts**:
+
+Some more mediaqueries, and remade some flexboxes to more appropioate grid in this case. Will maybe upload page tomorrow
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/whygooglewhy) to site on GitHub
+
+
 ## 66. Project why google, time of day
 
-### Day 66: Aug 13, 2020
+### Day 66: Aug 14, 2020
 
 **Today's Progress and Thoughts**:
 
@@ -45,7 +58,7 @@ Making a functin, showing what day it is.
 
 ## 65. Project why google, clock
 
-### Day 65: Aug 12, 2020
+### Day 65: Aug 13, 2020
 
 **Today's Progress and Thoughts**:
 
