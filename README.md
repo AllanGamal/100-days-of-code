@@ -29,8 +29,20 @@
    </ul>
 ---
 
+## 68. Project Pearson Correlation Coefficient, new project!!
 
-## 67. Project why google, time of day
+### Day 68: Aug 16, 2020
+
+**Today's Progress and Thoughts**:
+
+New project! Doing a site where you can feed numbers in and out you will get Pearson Correlation Coefficient and regression line calculated, with some nice charts displayed.  Started doing a table with a button for adding rows/datapoints. 
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/Pearson-Correlation-Coefficient/tree/master) to site on GitHub
+
+
+## 67. Project why google, site completed, waiting for upload
 
 ### Day 67: Aug 15, 2020
 
