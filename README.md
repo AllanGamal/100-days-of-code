@@ -29,6 +29,22 @@
    </ul>
 ---
 
+## 69. Project Pearson Correlation Coefficient, remove row button adde
+
+### Day 69: Aug 17, 2020
+
+**Today's Progress and Thoughts**:
+
+Added button to remove row / datapoints, altough still without functionality. Still figuring out how to do this correct. 
+
+<img src="img/correlation/remove-button.JPG" height="400px">
+
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/Pearson-Correlation-Coefficient/tree/master) to site on GitHub
+
+
 ## 68. Project Pearson Correlation Coefficient, new project!!
 
 ### Day 68: Aug 16, 2020
