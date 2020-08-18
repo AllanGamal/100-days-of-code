@@ -29,6 +29,19 @@
    </ul>
 ---
 
+## 70. Project Pearson Correlation Coefficient, remove row functionallity partially added
+
+### Day 70: Aug 18, 2020
+
+**Today's Progress and Thoughts**:
+
+Remove row functionallity partially added on a table, really struggeled with this one, but I think I got it now, added a class (n) for every new row and select the buttons parent node id to check if its in a array to remove. Will finish tomorrow
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/Pearson-Correlation-Coefficient/tree/master) to site on GitHub
+
+
 ## 69. Project Pearson Correlation Coefficient, remove row button adde
 
 ### Day 69: Aug 17, 2020
