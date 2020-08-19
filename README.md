@@ -29,6 +29,19 @@
    </ul>
 ---
 
+## 71. Project Pearson Correlation Coefficient, remove row complete
+
+### Day 71: Aug 19, 2020
+
+**Today's Progress and Thoughts**:
+
+Remove row functionallity partially completed
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/Pearson-Correlation-Coefficient/tree/master) to site on GitHub
+
+
 ## 70. Project Pearson Correlation Coefficient, remove row functionallity partially added
 
 ### Day 70: Aug 18, 2020
