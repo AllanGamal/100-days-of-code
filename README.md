@@ -29,6 +29,19 @@
    </ul>
 ---
 
+## 72. Project Pearson Correlation Coefficient, calculate button, data storages
+
+### Day 72: Aug 20, 2020
+
+**Today's Progress and Thoughts**:
+
+Added a calc-btn, to calculate the Project Pearson Correlation Coefficient and the regression line. This is where the fun, but hard part start, math and data structures! Only got to made some data storage magament done.
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/Pearson-Correlation-Coefficient/tree/master) to site on GitHub
+
+
 ## 71. Project Pearson Correlation Coefficient, remove row complete
 
 ### Day 71: Aug 19, 2020
