@@ -29,6 +29,19 @@
    </ul>
 ---
 
+## 73. Project Pearson Correlation Coefficient, calculate function
+
+### Day 73: Aug 21, 2020
+
+**Today's Progress and Thoughts**:
+
+Behind the scenese calculation function done for Project Pearson Correlation Coefficient, super fun!
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/Pearson-Correlation-Coefficient/tree/master) to site on GitHub
+
+
 ## 72. Project Pearson Correlation Coefficient, calculate button, data storages
 
 ### Day 72: Aug 20, 2020
