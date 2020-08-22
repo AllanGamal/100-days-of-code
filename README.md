@@ -29,13 +29,28 @@
    </ul>
 ---
 
+## 74. Project Pearson Correlation Coefficient, calculate function
+
+### Day 74: Aug 22, 2020
+
+**Today's Progress and Thoughts**:
+
+Tweaking some data structures, and doing some input validation, only accepting numbers, and styling to the table.
+
+<img src="img/correlation/styling.JPG" height="400px">
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/Pearson-Correlation-Coefficient/tree/master) to site on GitHub
+
+
 ## 73. Project Pearson Correlation Coefficient, calculate function
 
 ### Day 73: Aug 21, 2020
 
 **Today's Progress and Thoughts**:
 
-Behind the scenese calculation function done for Project Pearson Correlation Coefficient, super fun!
+Behind the scene calculation function done for Project Pearson Correlation Coefficient, super fun!
 
 **Link to Work**
 
