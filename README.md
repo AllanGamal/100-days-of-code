@@ -29,7 +29,22 @@
    </ul>
 ---
 
-## 74. Project Pearson Correlation Coefficient, calculate function
+## 75. Project Pearson Correlation Coefficient, chart
+
+### Day 75: Aug 23, 2020
+
+**Today's Progress and Thoughts**:
+
+Having done alot of data structures, I now seek to display it in a chart, with chart.js. Still figuring out how it works. Will be a scatter plot
+
+<img src="img/correlation/chart.JPG" height="400px">
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/Pearson-Correlation-Coefficient/tree/master) to site on GitHub
+
+
+## 74. Project Pearson Correlation Coefficient, validation and styling
 
 ### Day 74: Aug 22, 2020
 
