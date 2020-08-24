@@ -29,6 +29,21 @@
    </ul>
 ---
 
+## 76. Project Pearson Correlation Coefficient, chart
+
+### Day 76: Aug 24, 2020
+
+**Today's Progress and Thoughts**:
+
+Still tinkering with the chart with chart.js. Managed to get a scatter plot after trying to make sense of the chart.js documentation. 
+
+<img src="img/correlation/scatter.JPG" height="400px">
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/Pearson-Correlation-Coefficient/tree/master) to site on GitHub
+
+
 ## 75. Project Pearson Correlation Coefficient, chart
 
 ### Day 75: Aug 23, 2020
