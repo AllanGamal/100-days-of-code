@@ -29,6 +29,22 @@
    </ul>
 ---
 
+## 78. Project Pearson Correlation Coefficient, chart
+
+### Day 78: Aug 26, 2020
+
+**Today's Progress and Thoughts**:
+
+Regression Y Intercept, Regression slop and Pearson Correlation Coefficient added on display. Also fixed the slope on my scatter graph. Its starting to look good (:
+
+<img src="img/correlation/slope.JPG" height="400px">
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/Pearson-Correlation-Coefficient/tree/master) to site on GitHub
+
+
+
 ## 77. Project Pearson Correlation Coefficient, chart
 
 ### Day 77: Aug 25, 2020
@@ -52,7 +68,6 @@ Remade the chart with chart.js. Worked with som data structures and added a regr
 
 Still tinkering with the chart with chart.js. Managed to get a scatter plot after trying to make sense of the chart.js documentation. 
 
-<img src="img/correlation/scatter.JPG" height="400px">
 
 **Link to Work**
 
