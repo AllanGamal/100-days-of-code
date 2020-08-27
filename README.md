@@ -29,6 +29,21 @@
    </ul>
 ---
 
+## 79. Project Pearson Correlation Coefficient, upload input and media queries
+
+### Day 79: Aug 27, 2020
+
+**Today's Progress and Thoughts**:
+
+Added upload input, and styled them, to upload csv-file into the table. Not sure how to make it in in javascript yet tho. Also worked with media queries (:
+
+<img src="img/correlation/uploadinput.JPG" height="400px">
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/Pearson-Correlation-Coefficient/tree/master) to site on GitHub
+
+
 ## 78. Project Pearson Correlation Coefficient, chart
 
 ### Day 78: Aug 26, 2020
