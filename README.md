@@ -29,6 +29,21 @@
    </ul>
 ---
 
+## 80. Project Pearson Correlation Coefficient, completed!
+
+### Day 80: Aug 28, 2020
+
+**Today's Progress and Thoughts**:
+
+Finished my project! Successfully made a upload input for uploading csv into table. Took me all day!
+
+<img src="img/correlation/done.JPG" height="800px">
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/Pearson-Correlation-Coefficient/tree/master) to site on GitHub
+
+
 ## 79. Project Pearson Correlation Coefficient, upload input and media queries
 
 ### Day 79: Aug 27, 2020
