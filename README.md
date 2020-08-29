@@ -29,6 +29,21 @@
    </ul>
 ---
 
+## 81. Staff cover, new project!
+
+### Day 81: Aug 29, 2020
+
+**Today's Progress and Thoughts**:
+
+New project! A application to see staffs competency in a given work place, and with a button see if every work station can be covored with staff! 
+Got the idea from my last job in industry where it could be used when staff are sick / unavailable.
+Just doing some design today
+
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/Pearson-Correlation-Coefficient/tree/master) to site on GitHub
+
 ## 80. Project Pearson Correlation Coefficient, completed!
 
 ### Day 80: Aug 28, 2020
