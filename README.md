@@ -29,6 +29,20 @@
    </ul>
 ---
 
+## 82. Staff cover, design completed
+
+### Day 82: Aug 30, 2020
+
+**Today's Progress and Thoughts**:
+
+Design completed, lots of flexbox and grid. Gotta love them. Will probably make some tweek along the way.  
+
+<img src="img/work/design.JPG" height="400px">
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/Pearson-Correlation-Coefficient/tree/master) to site on GitHub
+
 ## 81. Staff cover, new project!
 
 ### Day 81: Aug 29, 2020
