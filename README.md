@@ -37,7 +37,7 @@
 
 Design completed, lots of flexbox and grid. Gotta love them. Will probably make some tweek along the way.  
 
-<img src="img/work/design.JPG" height="400px">
+<img src="img/work/completedesign.JPG" height="400px">
 
 **Link to Work**
 
