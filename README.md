@@ -29,6 +29,19 @@
    </ul>
 ---
 
+## 83. Staff cover, design completed
+
+### Day 83: Aug 31, 2020
+
+**Today's Progress and Thoughts**:
+
+Working with some event handler and basic data-structure set-up
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/Pearson-Correlation-Coefficient/tree/master) to site on GitHub
+
+
 ## 82. Staff cover, design completed
 
 ### Day 82: Aug 30, 2020
