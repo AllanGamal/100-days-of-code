@@ -29,13 +29,30 @@
    </ul>
 ---
 
-## 83. Staff cover, design completed
+## 84. Staff cover, data-structures and dynamic elements
+
+### Day 84: Sept 1, 2020
+
+**Today's Progress and Thoughts**:
+
+Doing some more data-structures and dynamic elements, I realised that I just can write a function that accept parent ID parameter and dynamic element to-be parameter, and it will generate the element I want. Such a time saver, and now I just feel stupid.
+
+P.S. Data structures are fun
+
+<img src="img/work/addElement.JPG" height="200px">
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/Pearson-Correlation-Coefficient/tree/master) to site on GitHub
+
+
+## 83. Staff cover, data structures
 
 ### Day 83: Aug 31, 2020
 
 **Today's Progress and Thoughts**:
 
-Working with some event handler and basic data-structure set-up
+Working with some event handler and basic data-structures set-up
 
 **Link to Work**
 
