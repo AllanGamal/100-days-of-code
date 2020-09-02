@@ -29,6 +29,19 @@
    </ul>
 ---
 
+## 85. Staff cover, data-structures
+
+### Day 85: Sept 2, 2020
+
+**Today's Progress and Thoughts**:
+
+Working with more data-structures and dynamic-elements
+
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/Pearson-Correlation-Coefficient/tree/master) to site on GitHub
+
 ## 84. Staff cover, data-structures and dynamic elements
 
 ### Day 84: Sept 1, 2020
