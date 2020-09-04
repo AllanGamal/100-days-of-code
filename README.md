@@ -29,6 +29,19 @@
    </ul>
 ---
 
+## 87. Staff cover, data-structures
+
+### Day 87: Sept 4, 2020
+
+**Today's Progress and Thoughts**:
+
+Doing some design and html mark up changes. Planning can be really hard sometimes. Before I learnt javasccript, I only learned html and css and i Thought for myself "I'm never going to need to use id".
+Oh boy how wrong I was
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/Pearson-Correlation-Coefficient/tree/master) to site on GitHub
+
 ## 86. Staff cover, data-structures
 
 ### Day 86: Sept 3, 2020
