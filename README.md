@@ -29,6 +29,18 @@
    </ul>
 ---
 
+## 88. Staff cover, data-structures and more data-structures
+
+### Day 88: Sept 5, 2020
+
+**Today's Progress and Thoughts**:
+
+Working with more dynamic elements and data-structures, and then som more data-structure. Alot of data-structure this project, and it might be why I am enyoing this project so much. 
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/Pearson-Correlation-Coefficient/tree/master) to site on GitHub
+
 ## 87. Staff cover, data-structures
 
 ### Day 87: Sept 4, 2020
