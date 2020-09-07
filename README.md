@@ -30,7 +30,7 @@
 ---
 
 
-## 89. Staff cover, data-structures and more data-structures
+## 90. Staff cover, data-structures and more data-structures
 
 ### Day 89: Sept 7, 2020
 
@@ -43,9 +43,23 @@ Making a pop-up window today. Never realized it was this "easy". Just a div.box 
 - [Code](https://github.com/AllanGamal/Pearson-Correlation-Coefficient/tree/master) to site on GitHub
 
 
+
+## 89. Staff cover, data-structures and more data-structures
+
+### Day 89: Sept 6, 2020
+
+**Today's Progress and Thoughts**:
+
+Damn it. I forgot to upload my work yesterday, although I spent many hours yesterday. Did some more data-structures and working with more dynamic elements. 
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/Pearson-Correlation-Coefficient/tree/master) to site on GitHub
+
+
 ## 88. Staff cover, data-structures and more data-structures
 
-### Day 88: Sept 6, 2020
+### Day 88: Sept 5, 2020
 
 **Today's Progress and Thoughts**:
 
