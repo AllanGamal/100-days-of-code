@@ -29,9 +29,23 @@
    </ul>
 ---
 
+
+## 89. Staff cover, data-structures and more data-structures
+
+### Day 89: Sept 7, 2020
+
+**Today's Progress and Thoughts**:
+
+Making a pop-up window today. Never realized it was this "easy". Just a div.box with absolute position to the middle and toggeling display: none/flex to "pop-up" when clicking. 
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/Pearson-Correlation-Coefficient/tree/master) to site on GitHub
+
+
 ## 88. Staff cover, data-structures and more data-structures
 
-### Day 88: Sept 5, 2020
+### Day 88: Sept 6, 2020
 
 **Today's Progress and Thoughts**:
 
