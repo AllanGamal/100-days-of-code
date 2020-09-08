@@ -30,9 +30,23 @@
 ---
 
 
-## 90. Staff cover, data-structures and more data-structures
+## 91. Staff cover, pop-up continues & bugfixex
 
-### Day 89: Sept 7, 2020
+### Day 91: Sept 8, 2020
+
+**Today's Progress and Thoughts**:
+
+Pop-up window work continues. And while Im working bugfixes, I learned a valuable lesson that follows: deal with bugs right away instead of letting them piling up.
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/Pearson-Correlation-Coefficient/tree/master) to site on GitHub
+
+
+
+## 90. Staff cover, pop-up window
+
+### Day 90: Sept 7, 2020
 
 **Today's Progress and Thoughts**:
 
