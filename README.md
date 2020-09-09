@@ -29,6 +29,19 @@
    </ul>
 ---
 
+## 92. Staff cover, pop-up continues & bugfixex
+
+### Day 92: Sept 9, 2020
+
+**Today's Progress and Thoughts**:
+
+More work on pop-up windows and bug-fixes, but alså making every dynamic elements with text input/output non-letter sensetive. Not sure why I did this after all the work.
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/Pearson-Correlation-Coefficient/tree/master) to site on GitHub
+
+
 
 ## 91. Staff cover, pop-up continues & bugfixex
 
