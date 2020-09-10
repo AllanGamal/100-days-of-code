@@ -29,6 +29,19 @@
    </ul>
 ---
 
+## 93. Staff cover, pop-up continues & bugfixex
+
+### Day 93: Sept 10, 2020
+
+**Today's Progress and Thoughts**:
+
+Adding button/ functionality to the "close window" button
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/Pearson-Correlation-Coefficient/tree/master) to site on GitHub
+
+
 ## 92. Staff cover, pop-up continues & bugfixex
 
 ### Day 92: Sept 9, 2020
