@@ -29,6 +29,19 @@
    </ul>
 ---
 
+## 94. Staff cover, pop-up continues & bugfixex
+
+### Day 94: Sept 11, 2020
+
+**Today's Progress and Thoughts**:
+
+Adding more "close window"-functionallity. Doing alot in school now, so I cant code as long as I want
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/Pearson-Correlation-Coefficient/tree/master) to site on GitHub
+
+
 ## 93. Staff cover, pop-up continues & bugfixex
 
 ### Day 93: Sept 10, 2020
