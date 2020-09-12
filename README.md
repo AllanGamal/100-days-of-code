@@ -29,6 +29,19 @@
    </ul>
 ---
 
+## 95. Staff cover, pop-up continues & bugfixex
+
+### Day 95: Sept 12, 2020
+
+**Today's Progress and Thoughts**:
+
+Adding functionality to remove a team from workspace. 
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/Pearson-Correlation-Coefficient/tree/master) to site on GitHub
+
+
 ## 94. Staff cover, pop-up continues & bugfixex
 
 ### Day 94: Sept 11, 2020
