@@ -29,6 +29,18 @@
    </ul>
 ---
 
+## 96. Staff cover, pop-up continues & bugfixex
+
+### Day 96: Sept 13, 2020
+
+**Today's Progress and Thoughts**:
+
+Design and markup-changes changes, and some data-structures
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/Pearson-Correlation-Coefficient/tree/master) to site on GitHub
+
 ## 95. Staff cover, pop-up continues & bugfixex
 
 ### Day 95: Sept 12, 2020
