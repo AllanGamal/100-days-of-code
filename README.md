@@ -29,6 +29,21 @@
    </ul>
 ---
 
+## 98. Staff cover, pop-up continues
+
+### Day 98: Sept 15, 2020
+
+**Today's Progress and Thoughts**:
+
+Adding functionality to the checkbox for making staff unavailable. 
+
+<img src="img/work/unavailable.jpg" height="200px">
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/Pearson-Correlation-Coefficient/tree/master) to site on GitHub
+
+
 ## 97. Staff cover, pop-up continues
 
 ### Day 97: Sept 14, 2020
