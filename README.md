@@ -29,15 +29,29 @@
    </ul>
 ---
 
-## 99. Staff cover, pop-up continues
+## 100. Staff cover, possible combinations continues
+
+### Day 100: Sept 17, 2020
+
+**Today's Progress and Thoughts**:
+
+Still trying to calc every possible combinations of available staff, but it wont work, it should work. Very frustaded, going to rewrite the code pass the couple of days.
+P.S 100days baby!
+
+
+**Link to Work**
+
+- [Code](https://github.com/AllanGamal/Pearson-Correlation-Coefficient/tree/master) to site on GitHub
+
+
+## 99. Staff cover, possible combinations
 
 ### Day 99: Sept 16, 2020
 
 **Today's Progress and Thoughts**:
 
 This one is a hard one. Trying to make the code calculate every possible combinations of available staff to make sure a work place can be covered by the staff. 
-
-<img src="img/work/unavailable.jpg" height="200px">
+>
 
 **Link to Work**
 
